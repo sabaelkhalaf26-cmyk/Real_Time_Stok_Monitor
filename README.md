@@ -1,1 +1,7 @@
-# stock-monitor-os-project
+🏷️ شارات (Badges) ملونة — Python, Threading, GUI, License
+📊 جدول المميزات — كل تبويب وما يفعله
+🧵 رسم ASCII يوضح الـ Threads والأقفال بصرياً
+⚡ شرح Race Condition بمثال كودي واضح
+🚀 تعليمات التشغيل — clone وتثبيت وتشغيل
+🏆 جدول الدرجات كامل
+📁 هيكل الملفات
